@@ -1,0 +1,88 @@
+
+.navbar{
+    margin: -10px -10px 0 -10px ;
+   
+    padding: 0px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    height: 48px;
+    background-color: rgb(10, 10, 25);
+   
+
+}
+.search{
+    border: 2px rgb(59,59,79);
+    font-size: 20px;
+    display: flex;
+    text-align: left;
+   
+    margin-top: 18px;
+    margin-left: -0px;
+    width: 545px;
+    height: 29px;
+    color: rgb(255, 255, 255);
+
+    background-color: rgb(59,59,79);
+}
+.search:focus{
+    border: 2px rgb(61, 136, 241);
+    border-radius: 0;
+}
+.search::placeholder {
+    color: rgb(208, 208, 205);
+    font-size: 20px;
+}    
+.heading{
+    margin-left: 40px;
+    align-content: center;
+    font-family: Lato,sans-serif;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    width: 30ch;
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+}
+.action{
+    margin-right: 10px;
+    font-family: 'Koulen', cursive;
+    display: flex;
+    justify-content: space-between;
+    width: 20ch;
+    color: white;
+    
+}
+.signup{
+    margin-right: 30px;
+    font-family: lato,sans-serif;
+    font-size: 22px;
+    color: black;
+    border: 3px solid rgb(255, 174, 54);
+    height: 36px;
+    width: 122px;
+    margin-right: 18px;
+    background-image: linear-gradient(rgb(254, 198, 71), rgb(255, 174, 54));
+}
+.signup:hover{
+    cursor: pointer;
+    background-image: linear-gradient(rgb(254, 198, 71), rgb(254, 198, 71));
+}
+
+.menu{
+    font-family: lato,sans-serif;
+    font-size: 22px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(10, 10, 25);
+    color: rgb(255, 255, 255);
+    height: 35px;
+    width: 89px;
+    margin-right: 17px;
+}
+.menu:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

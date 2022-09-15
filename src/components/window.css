@@ -1,0 +1,76 @@
+.logout{
+    
+    margin-right: -100px;
+    height: 35px;
+    width: 35px;
+}
+
+.menu1{
+    font-family: lato,sans-serif;
+    font-size: 22px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(10, 10, 25);
+    color: rgb(255, 255, 255);
+    height: 35px;
+    width: 89px;
+    margin-left: 90px;
+    
+}
+.menu1:hover{
+    cursor: pointer;
+}
+.heading:hover{
+    cursor: pointer;
+}
+
+.window{
+    height: 100%;
+    width: 100%;
+    padding-left: 0px;
+    align-items: center;
+    font-family: Lato,sans-serif;
+    color: rgb(27, 27, 50);
+    margin-top: 0%;
+    background-color: rgb(245, 246, 247);
+}
+
+.padd3{
+    padding-top: 1cm;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.blockquote{
+    font-family: 'Courier New', monospace;
+    margin-left: 24%;
+    width: 52%;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 2cm;
+    margin-bottom: 1cm;
+}
+
+
+
+.content{
+    font-family: 'Courier New', monospace;
+    background-color: rgb(208, 208, 213);
+    height: 70px;
+    border: 3px solid rgb(27, 27, 50);
+    text-align: center;
+    font-size: 45px;
+    color: rgb(27, 27, 50);
+    padding-top: 10px;
+    margin-left: 20%;
+    width: 60%;
+    margin-bottom: 16px;
+     
+}
+.content:hover{
+    color: rgb(208, 208, 213);
+    background-color: rgb(27, 27, 50);
+    cursor: pointer;
+}

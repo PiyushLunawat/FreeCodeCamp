@@ -1,0 +1,57 @@
+
+body{
+    background-color: rgb(245, 246, 247);
+}
+
+.padd2{
+    padding-top: 50px;
+}
+
+.line{
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    padding-top: 0;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(59, 59, 79);
+    margin-bottom: 40px;
+}
+
+.home{
+    height: 100%;
+    width: 100%;
+    padding-left: 0px;
+    width: 52%;
+    margin-left: 24%;
+    margin-right: 24%;
+    align-items: center;
+    font-family: Lato,sans-serif;
+    color: rgb(27, 27, 50);
+    margin-top: 0%;
+
+}
+.head{
+    font-size: 55px;
+}
+
+.start{
+    padding-top: 10px;
+    padding-bottom: 0;
+    text-align: center;
+    margin-left: 17%;
+    margin-right: 17%;
+    height: 50px;
+    width: 66%;
+    font-family: lato,sans-serif;
+    font-size: 35px;
+    border: 2px solid rgb(255, 174, 54);
+    color: black;
+    background-image: linear-gradient(rgb(254, 198, 71), rgb(255, 174, 54));
+}
+.start:hover{
+    cursor: pointer;
+    background-image: linear-gradient(rgb(254, 198, 71), rgb(254, 198, 71));
+}
